@@ -1,13 +1,8 @@
 This line belongs to ___master___
+
 Written on "master"
+
 Line written on __branch1__
-
-<<<<<<< HEAD
-Line Belongs to ___branch1___
-=======
->>>>>>> 121a05dbe4fb1506f4208c7c05ef1109c54d94d3
-
-
 
 l1
 l2
