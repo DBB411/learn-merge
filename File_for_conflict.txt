@@ -1,9 +1,7 @@
-This line belongs to ___master___
-
 Written on "master"
 
 Line written on __branch1__
-
+Line written on "branch2"
 l1
 l2
 l3
