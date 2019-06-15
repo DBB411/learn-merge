@@ -1,6 +1,6 @@
 
 
-b2
+Line written on "branch2"
 
 l1
 l2
