@@ -1,9 +1,11 @@
-line 1
+---master---
+
+
+
+l1
 l2
 l3
 l4
 l5
-Line 6
-l7
-l 6 : try to conflict
+l6
 l7
